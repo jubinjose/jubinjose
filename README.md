@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Current interests - Algorithms, Functional Programming, Cloud Native Full Stack Dev (JavaScript/Node/.Net Core/Java/Python/Common Databases) 👋
+
+
 
 <!--
 **jubinjose/jubinjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
