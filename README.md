@@ -1,4 +1,8 @@
-###  Current interests - Algorithms, Functional Programming, Cloud Native Full Stack Dev (JavaScript/Node/.Net Core/Java/Python/Common Databases) 👋
+##  Current interests
+
+- Algorithms
+- Functional Programming
+- Cloud Native Full Stack Dev (JavaScript/Node/.Net Core/Java/Python/Common Databases) 👋
 
 
 
