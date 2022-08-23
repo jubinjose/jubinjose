@@ -13,9 +13,9 @@ Very hands on with full stack development
 
 ##   Current interests 
 
-- Algorithms
+- Algorithms, Machine Learning
 - Functional Programming
-- Cloud Native Full Stack Dev (JavaScript/Node/.Net Core/Java/Python/Common Databases) 
+- Cost & performance optimization considerations (Serverless, CaaS, etc.)
 
 
 
