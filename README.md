@@ -2,14 +2,14 @@
 
 Engineering Leader, Technology Enthusiast, Experienced Architect, and Passionate Developer.
 
-Very hands on with full stack development 
-- JavaScript, TypeScript and popular frameworks such as Angular, Vue, React, etc.
+Very hands on with Full Stack development 
+- JavaScript, TypeScript, and popular frameworks such as Angular, Vue, React, etc.
 - Java, .Net, Node.js, and Python.
-- Experience with multiple cloud platforms - cloud native development, cloud migrations.
-- Relational as well as document databases
-- All aspects of productionalization of enterprise grade applications - Security, Monitoring, APM Tools, Metrics, Scalability, Availability, Performance, and cost optimization
+- Cloud native development, cloud migrations on multiple cloud platforms.
+- Relational & Document databases.
+- Security, Monitoring, APM - Telemetry & Observability, Metrics, Scalability, Availability, Performance, and Cost Optimization
 
-### * Reach out if you are looking for consultation for startups or enterprise applications *
+#### * Reach out if you are looking for consultation for startups or enterprise applications *
 
 ##   Current interests 
 
