@@ -1,6 +1,6 @@
 ##   About 
 
-I am a technology enthusiast, comfortable with architecting, designing, and implementing end to end solutions.
+Engineering Leader, Technology Enthusiast, Experienced Architect, and Passionate Developer.
 
 Very hands on with full stack development 
 - JavaScript, TypeScript and popular frameworks such as Angular, Vue, React, etc.
